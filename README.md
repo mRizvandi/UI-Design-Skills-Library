@@ -199,7 +199,3 @@ When adding a style:
 4. Add a small, original preview specimen.
 5. Add the source page and primary references.
 6. Update the gallery and style table in this README.
-
-## License
-
-No license is asserted for third-party source material. Before publishing this repository publicly, choose a license for the original files in this repository and verify that all included content is eligible for redistribution. The source pages remain the property of their respective publishers.
