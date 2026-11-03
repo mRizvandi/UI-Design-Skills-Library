@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" role="img" aria-label="Neobrutalism style preview">
+<defs><linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff"/><stop offset=".25" stop-color="#8aa6c7"/><stop offset=".5" stop-color="#fff"/><stop offset=".72" stop-color="#6c88ad"/><stop offset="1" stop-color="#f8fbff"/></linearGradient><linearGradient id="aqua" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff"/><stop offset=".48" stop-color="#a9e4ff"/><stop offset=".52" stop-color="#4fa9dc"/><stop offset="1" stop-color="#dff7ff"/></linearGradient></defs>
+<rect width="300" height="200" rx="14" fill="#fff4a8"/>
+<rect x="40" y="34" width="220" height="132" fill="#fff" stroke="#111" stroke-width="4"/><rect x="52" y="46" width="196" height="24" fill="#ff6b9d" stroke="#111" stroke-width="3"/><rect x="52" y="86" width="82" height="64" fill="#ffe66d" stroke="#111" stroke-width="3"/><rect x="148" y="86" width="100" height="64" fill="#9bf6ff" stroke="#111" stroke-width="3"/><path d="M46 172 l8 8 h210" stroke="#111" stroke-width="4" fill="none"/>
+</svg>

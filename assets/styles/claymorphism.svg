@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" role="img" aria-label="Claymorphism style preview">
+<defs><linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff"/><stop offset=".25" stop-color="#8aa6c7"/><stop offset=".5" stop-color="#fff"/><stop offset=".72" stop-color="#6c88ad"/><stop offset="1" stop-color="#f8fbff"/></linearGradient><linearGradient id="aqua" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff"/><stop offset=".48" stop-color="#a9e4ff"/><stop offset=".52" stop-color="#4fa9dc"/><stop offset="1" stop-color="#dff7ff"/></linearGradient></defs>
+<rect width="300" height="200" rx="14" fill="#f8e6ee"/>
+<rect x="38" y="34" width="224" height="132" rx="30" fill="#f2b9ce" stroke="#fff" stroke-width="5"/><rect x="58" y="56" width="184" height="18" rx="9" fill="#fff" opacity=".75"/><circle cx="91" cy="117" r="27" fill="#d88cae" stroke="#fff0f6" stroke-width="7"/><rect x="132" y="94" width="94" height="45" rx="18" fill="#fff0f6"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" role="img" aria-label="Skeuomorphism style preview">
+<defs><linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff"/><stop offset=".25" stop-color="#8aa6c7"/><stop offset=".5" stop-color="#fff"/><stop offset=".72" stop-color="#6c88ad"/><stop offset="1" stop-color="#f8fbff"/></linearGradient><linearGradient id="aqua" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff"/><stop offset=".48" stop-color="#a9e4ff"/><stop offset=".52" stop-color="#4fa9dc"/><stop offset="1" stop-color="#dff7ff"/></linearGradient></defs>
+<rect width="300" height="200" rx="14" fill="#60452f"/>
+<rect x="36" y="28" width="228" height="144" rx="12" fill="#8c603e" stroke="#e5c99b" stroke-width="5"/><rect x="52" y="44" width="196" height="112" rx="8" fill="#e7d6b2" stroke="#5c3c26" stroke-width="3"/><path d="M62 70 H238 M62 88 H238 M62 106 H238" stroke="#b48b63" stroke-width="2"/><circle cx="218" cy="132" r="9" fill="#bd8a4d" stroke="#80552e" stroke-width="3"/>
+</svg>

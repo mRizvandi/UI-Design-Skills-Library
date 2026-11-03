@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" role="img" aria-label="Vernacular Web style preview">
+<defs><linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff"/><stop offset=".25" stop-color="#8aa6c7"/><stop offset=".5" stop-color="#fff"/><stop offset=".72" stop-color="#6c88ad"/><stop offset="1" stop-color="#f8fbff"/></linearGradient><linearGradient id="aqua" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff"/><stop offset=".48" stop-color="#a9e4ff"/><stop offset=".52" stop-color="#4fa9dc"/><stop offset="1" stop-color="#dff7ff"/></linearGradient></defs>
+<rect width="300" height="200" rx="14" fill="#d9eaff"/>
+<rect x="35" y="28" width="230" height="144" fill="#fff2a8" stroke="#1a4fff" stroke-width="3"/><text x="50" y="60" font-family="Georgia" font-size="16" fill="#1a4fff">✦ Welcome! ✦</text><text x="50" y="88" font-family="Georgia" font-size="11" fill="#111">under construction</text><path d="M50 104 H250" stroke="#f0a" stroke-width="4" stroke-dasharray="5 3"/><text x="50" y="137" font-family="monospace" font-size="11" fill="#1a4fff">visitor #000123</text>
+</svg>

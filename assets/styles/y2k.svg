@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" role="img" aria-label="Y2K style preview">
+<defs><linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff"/><stop offset=".25" stop-color="#8aa6c7"/><stop offset=".5" stop-color="#fff"/><stop offset=".72" stop-color="#6c88ad"/><stop offset="1" stop-color="#f8fbff"/></linearGradient><linearGradient id="aqua" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff"/><stop offset=".48" stop-color="#a9e4ff"/><stop offset=".52" stop-color="#4fa9dc"/><stop offset="1" stop-color="#dff7ff"/></linearGradient></defs>
+<rect width="300" height="200" rx="14" fill="#14213d"/>
+<rect x="36" y="34" width="228" height="132" rx="24" fill="#a9d9ff" stroke="#fff" stroke-width="4"/><ellipse cx="150" cy="100" rx="68" ry="44" fill="url(#chrome)" stroke="#fff" stroke-width="3"/><path d="M80 142 Q150 20 220 142" fill="none" stroke="#fff" stroke-width="4" opacity=".8"/>
+</svg>

@@ -1,0 +1,80 @@
+{
+  "name": "ui-design-styles",
+  "version": "0.1.0",
+  "description": "AI agent skill and visual reference library for 14 UI design styles.",
+  "source_atlas": "https://namethatui.com/styles",
+  "source_methodology": "https://namethatui.com/methodology",
+  "styles": [
+    {
+      "name": "Glassmorphism",
+      "slug": "glassmorphism",
+      "source": "https://namethatui.com/styles/glassmorphism"
+    },
+    {
+      "name": "Neumorphism",
+      "slug": "neumorphism",
+      "source": "https://namethatui.com/styles/neumorphism"
+    },
+    {
+      "name": "Skeuomorphism",
+      "slug": "skeuomorphism",
+      "source": "https://namethatui.com/styles/skeuomorphism"
+    },
+    {
+      "name": "Flat Design",
+      "slug": "flat-design",
+      "source": "https://namethatui.com/styles/flat-design"
+    },
+    {
+      "name": "Minimalism",
+      "slug": "minimalism",
+      "source": "https://namethatui.com/styles/minimalism"
+    },
+    {
+      "name": "Web Brutalism",
+      "slug": "web-brutalism",
+      "source": "https://namethatui.com/styles/web-brutalism"
+    },
+    {
+      "name": "Neobrutalism",
+      "slug": "neobrutalism",
+      "source": "https://namethatui.com/styles/neobrutalism"
+    },
+    {
+      "name": "Claymorphism",
+      "slug": "claymorphism",
+      "source": "https://namethatui.com/styles/claymorphism"
+    },
+    {
+      "name": "Liquid Glass",
+      "slug": "liquid-glass",
+      "source": "https://namethatui.com/styles/liquid-glass"
+    },
+    {
+      "name": "Y2K",
+      "slug": "y2k",
+      "source": "https://namethatui.com/styles/y2k"
+    },
+    {
+      "name": "Frutiger Aero",
+      "slug": "frutiger-aero",
+      "source": "https://namethatui.com/styles/frutiger-aero"
+    },
+    {
+      "name": "Vernacular Web",
+      "slug": "vernacular-web",
+      "source": "https://namethatui.com/styles/vernacular-web"
+    },
+    {
+      "name": "Aqua",
+      "slug": "aqua",
+      "source": "https://namethatui.com/styles/aqua"
+    },
+    {
+      "name": "Windows Aero",
+      "slug": "windows-aero",
+      "source": "https://namethatui.com/styles/windows-aero"
+    }
+  ],
+  "note": "Independently written guides and original schematic SVG specimens. Validate live atlas entries and source details before release."
+}
